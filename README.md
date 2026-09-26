@@ -8,14 +8,9 @@ Deploy AI to AWS, Vercel with MLOps, Bedrock, Sagemaker, RAG, Agents, MCP: scala
     **Healthcare app** 
 
     Started week one by deploying a simple gen ai app to vercel which used openai/gemini ai
-- **Here is the Vercel App deployed on Day 1** : [https://instant-3pq32j7k7-harry-e298.vercel.app/](https://instant-3pq32j7k7-harry-e298.vercel.app/)
-
-
-  Inspect         https://vercel.com/harry-e298/instant/AwzNuRN9abbT7vECdw4pRapUF45W
-  Preview         https://instant-bin2169cq-harry-e298.vercel.app
-
-
-  Production 
-    Inspect         https://vercel.com/harry-e298/instant/B6tvvG8RJnkywbDm97FcJ1yULv7i
-  Production      https://instant-39d3u9gto-harry-e298.vercel.app
+- **Here is the Vercel App deployed on Day 1** : 
 ▲ Aliased         https://instant-iota-jade-39.vercel.app
+
+   One Day 2 & 3, I have developed the SAAS Business Idea generator using OpenAI, FastApi, React, Python, Deployed on Vercel
+- **Here is the Vercel App deployed on Day 2 & 3** : 
+▲ Aliased        https://business-idea-generator-six-nu.vercel.app/
