@@ -4,7 +4,7 @@ Deploy AI to AWS, Vercel with MLOps, Bedrock, Sagemaker, RAG, Agents, MCP: scala
 
 ## Week 1:
   In week 1, I have developed two SAAS application 
-    **Business Idea Generator**
+    **Business Idea Generator** &
     **Healthcare app** 
 
     Started week one by deploying a simple gen ai app to vercel which used openai/gemini ai
