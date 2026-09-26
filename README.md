@@ -11,6 +11,6 @@ Deploy AI to AWS, Vercel with MLOps, Bedrock, Sagemaker, RAG, Agents, MCP: scala
 - **Simple Gen AI app deployed on Day 1** : 
 ▲ Aliased         https://instant-iota-jade-39.vercel.app
 
-   One Day 2 & 3, I have developed the SAAS Business Idea generator using OpenAI, FastApi, React, Python, Deployed on Vercel
+   One Day 2 & 3, I have developed the SAAS Business Idea generator using OpenAI, FastApi, React with Typescript, Python, Deployed on Vercel, We have used Clerk for authentication and billing with payment gateway 
 - **Business Idea Generator React App deployed on Day 2 & 3** : 
 ▲ Aliased        https://business-idea-generator-six-nu.vercel.app/
